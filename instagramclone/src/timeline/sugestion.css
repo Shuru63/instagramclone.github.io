@@ -1,0 +1,67 @@
+.all-suggestion{
+    padding: 0.5rem 1rem ;
+}
+.suggestion {
+    margin-top: 2rem;
+    padding: 1rem 1rem 1rem 0rem;
+}
+.off-on{
+    text-align: right;
+        padding: 0.2rem 1rem 1rem 0rem;
+        cursor: pointer;
+}
+.suggestion-profile {
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem ;
+}
+
+.profile-main {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+
+}
+
+.profile-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-right: 12px;
+}
+
+.intro {
+    margin-left: 0.8rem;
+}
+
+.highlight {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.intro p {
+    color: rgb(107, 107, 107);
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+}
+
+.suggestion-head {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.2rem;
+}
+
+.switch {
+    color: blue;
+    background: none;
+    border: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.seeall{
+    font-weight: bold;
+}
